@@ -1,0 +1,6 @@
+footer{
+    display: flex;
+    width: 100vw;
+    min-height:60px;
+    background-color: #2e3542;;
+}
